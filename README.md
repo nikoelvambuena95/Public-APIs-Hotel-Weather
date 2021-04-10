@@ -11,8 +11,6 @@ The analysis focused on:
 - Humidity
 - Cloudiness
 - Wind Speed (mph)
-<br>
-<br>
 Separating the weather data by Northern Hemisphere cities and Southern Hemisphere cities allowed for potential, observable trends unique to each.
 <br>
 <br>
