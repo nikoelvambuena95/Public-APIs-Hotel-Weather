@@ -39,8 +39,6 @@ Conditions were passed through the weather data to create a data frame of cities
 
 ![Heatmap with hotel marker locations](WeatherPy/visualizations/vacationPy_markerMap.png)
 
-## Conclustions
-
 ---
 ### Contact
 LinkedIn | https://www.linkedin.com/in/niko-elvambuena/
