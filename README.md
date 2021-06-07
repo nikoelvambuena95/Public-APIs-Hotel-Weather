@@ -21,3 +21,11 @@ The <b>VacationPy</b> notebook uses the previous weather data to generate aGoogl
 <br>
 <br>
 Conditions were passed through the weather data to create a data frame of cities suitable for vacations. These cities were passed through the Google Places API to find suitable hotels. Markers were placed on the heatmap to display hotel locations.
+<br>
+![Heatmap with hotel marker locations](WeatherPy\visualizations\vacationPy_markerMap.png)
+
+---
+### Contact
+LinkedIn | https://www.linkedin.com/in/niko-elvambuena/
+<br>
+Email | niko.elvambuena95@gmail.com
