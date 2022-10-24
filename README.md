@@ -17,7 +17,7 @@ Separating the weather data by Northern Hemisphere cities and Southern Hemispher
 
 ## Data Analysis & Basic Visualization
 
-In the <b>WeatherPy</b> notebook, this analysis takes the form scatterplots and linear regression models generated using the <b>[Matplotlib](https://matplotlib.org/)</b> Python Library. Trends and observations for each analysis included in the notebook.
+In the <b>WeatherPy</b> notebook, this analysis takes the form of scatterplots and linear regression models generated using the <b>[Matplotlib](https://matplotlib.org/)</b> Python Library. Trends and observations for each analysis included in the notebook.
 <br>
 <br>
 
